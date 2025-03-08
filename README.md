@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shanksmp/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shanksmp/leetcode/tree/master/0143-reorder-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shanksmp/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -56,4 +57,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/shanksmp/leetcode/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shanksmp/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
