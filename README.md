@@ -51,4 +51,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanksmp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shanksmp/leetcode/tree/master/0027-remove-element) |
+| [2058-concatenation-of-array](https://github.com/shanksmp/leetcode/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shanksmp/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
