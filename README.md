@@ -63,4 +63,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shanksmp/leetcode/tree/master/0020-valid-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
