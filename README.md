@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/shanksmp/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanksmp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shanksmp/leetcode/tree/master/0027-remove-element) |
+| [0643-maximum-average-subarray-i](https://github.com/shanksmp/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2058-concatenation-of-array](https://github.com/shanksmp/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -78,4 +79,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanksmp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/shanksmp/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
