@@ -74,6 +74,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shanksmp/leetcode/tree/master/0009-palindrome-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
