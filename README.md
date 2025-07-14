@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanksmp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shanksmp/leetcode/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanksmp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shanksmp/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -98,4 +100,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
