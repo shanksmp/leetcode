@@ -61,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanksmp/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/shanksmp/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shanksmp/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/shanksmp/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2058-concatenation-of-array](https://github.com/shanksmp/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -103,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanksmp/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shanksmp/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -111,4 +113,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shanksmp/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shanksmp/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shanksmp/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
