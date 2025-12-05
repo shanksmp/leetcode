@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shanksmp/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shanksmp/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shanksmp/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanksmp/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shanksmp/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/shanksmp/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
@@ -108,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0075-sort-colors](https://github.com/shanksmp/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shanksmp/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shanksmp/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shanksmp/leetcode/tree/master/0242-valid-anagram) |
 ## Queue
 |  |
 | ------- |
