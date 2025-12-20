@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/shanksmp/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shanksmp/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/shanksmp/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/shanksmp/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [2058-concatenation-of-array](https://github.com/shanksmp/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -81,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/shanksmp/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shanksmp/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shanksmp/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/shanksmp/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
