@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shanksmp/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shanksmp/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shanksmp/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shanksmp/leetcode/tree/master/0143-reorder-list) |
@@ -22,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shanksmp/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shanksmp/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shanksmp/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shanksmp/leetcode/tree/master/0206-reverse-linked-list) |
@@ -87,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shanksmp/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shanksmp/leetcode/tree/master/0009-palindrome-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shanksmp/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
