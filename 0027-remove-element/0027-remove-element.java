@@ -1,23 +1,15 @@
 
 class Solution {
     public int removeElement(int[] nums, int val) {
-        ArrayList<Integer> list = new ArrayList<>();
+        
+        int write = 0;
 
-        for(int i : nums){
-            list.add(i);
-        }
-
-        Iterator<Integer> it = list.iterator();
-        while(it.hasNext()){
-            int num = it.next();
-
-            if(num == val){
-                it.remove();
+        for(int read = 0; read < nums.length; read++){
+            if(nums[read] != val){
+                nums[write] = nums[read];
+                write++;
             }
         }
-        for(int i = 0; i < list.size(); i++){
-            nums[i] = list.get(i);
-        }
-        return list.size();
+        return write;
     }
 }
