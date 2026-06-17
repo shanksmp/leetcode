@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0141-linked-list-cycle](https://github.com/shanksmp/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shanksmp/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanksmp/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/shanksmp/leetcode/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0209-minimum-size-subarray-sum](https://github.com/shanksmp/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shanksmp/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shanksmp/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/shanksmp/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shanksmp/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/shanksmp/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shanksmp/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
